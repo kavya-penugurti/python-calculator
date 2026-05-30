@@ -34,7 +34,7 @@ choose operation:
 
 enter choise: 3
 
-Result: 15
+Result: 50
 '''
 
 ## Technologies Used
