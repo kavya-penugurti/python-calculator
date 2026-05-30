@@ -1,8 +1,8 @@
-#Simple Python Calculator
+## Simple Python Calculator
 
 A simple calculator built using python that performs basic arithmetic operations.
 
-##Features
+## Features
 - Addition
 - Subtraction
 - Multiplication
@@ -18,7 +18,7 @@ python calculator.py
 
 '''
 
-##Example
+## Example
 
 '''text
 simple calculator
@@ -37,7 +37,7 @@ enter choise: 3
 Result: 15
 '''
 
-##Technologies Used
+## Technologies Used
 -python
 
 ## Author
